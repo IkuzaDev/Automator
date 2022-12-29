@@ -24,7 +24,7 @@ for getting group list
 
 4.go to https://graph.facebook.com/me/groups?access_token={Your ACCESS TOKEN}
 
-5.copy all and pas to list.json
+5.copy all and paste to list.json
 
 ## Run Locally
 
