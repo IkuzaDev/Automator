@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+selenium
+customtkinter
+json
+pandas
+time
+pyautogui
+keyboard
+marshal
