@@ -15,6 +15,7 @@ For First installation you need to extract data.rar and put group list on list.j
 ## Group list
 
 for getting group list 
+
 1.go to https://developers.facebook.com/tools/explorer
 
 2.make app
