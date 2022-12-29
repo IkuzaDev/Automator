@@ -16,9 +16,13 @@ For First installation you need to extract data.rar and put group list on list.j
 
 for getting group list 
 1.go to https://developers.facebook.com/tools/explorer
+
 2.make app
+
 3.create access token 
+
 4.go to https://graph.facebook.com/me/groups?access_token={Your ACCESS TOKEN}
+
 5.copy all and pas to list.json
 
 ## Run Locally
